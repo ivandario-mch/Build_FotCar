@@ -1,7 +1,9 @@
-int motorA1=5;
+iint motorA1=5;
 int motorA2=18;
 int motorB1=21;
 int motorB2=19;
+
+//Modificacion
 
 int frecuencia=5000;
 int resolucion=10;
