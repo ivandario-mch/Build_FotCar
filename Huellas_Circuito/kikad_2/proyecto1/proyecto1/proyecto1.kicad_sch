@@ -1510,6 +1510,276 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "OS102011MS2QN1:OS102011MS2QN1"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "S"
+				(at -2.5411 5.0822 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "OS102011MS2QN1"
+				(at -2.544 -7.6319 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "OS102011MS2QN1:SW_OS102011MS2QN1"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MF" "C&K"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Description_1" "Switch,Slide,Mini,SPDT,ON-ON,Non-Shorting(BBM),100mA,12VDC,ThruHole,PC Pin | C&K OS102011MS2QN1"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Package" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Price" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Check_prices" "https://www.snapeda.com/parts/OS102011MS2QN1/C%2526K/view-part/?ref=eda"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "STANDARD" "MANUFACTURER RECOMMENDATIONS"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/OS102011MS2QN1/C%2526K/view-part/?ref=snap"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MP" "OS102011MS2QN1"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Availability" "In Stock"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MANUFACTURER" "C&K"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(symbol "OS102011MS2QN1_0_0"
+				(polyline
+					(pts
+						(xy -2.54 2.54) (xy 0 2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 -2.54) (xy 0 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -2.54 -4.318)
+					(end 2.286 4.318)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 0) (xy 0.508 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 2.54 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 2.54)
+					(name "3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Regulador:Regulador"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -1616,164 +1886,6 @@
 						)
 					)
 					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Switch:SW_DIP_x01"
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "SW"
-				(at 0 3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "SW_DIP_x01"
-				(at 0 -3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "1x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "dip switch"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "SW?DIP?x1*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "SW_DIP_x01_0_0"
-				(circle
-					(center -2.032 0)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.524 0.127) (xy 2.3622 1.1684)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.032 0)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "SW_DIP_x01_0_1"
-				(rectangle
-					(start -3.81 2.54)
-					(end 3.81 -2.54)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-			)
-			(symbol "SW_DIP_x01_1_1"
-				(pin passive line
-					(at -7.62 0 0)
-					(length 5.08)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 7.62 0 180)
-					(length 5.08)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1994,13 +2106,23 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 67.31) (xy 77.47 67.31)
+			(xy 69.85 95.25) (xy 77.47 95.25)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "177e69c5-e17c-4be6-afd5-d965e929e0cf")
+		(uuid "017da80c-c537-4d7b-9dd5-42e366a603ca")
+	)
+	(wire
+		(pts
+			(xy 170.18 80.01) (xy 157.48 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "09150e19-4f4b-4dfa-b617-fd9a41a9bb34")
 	)
 	(wire
 		(pts
@@ -2014,13 +2136,23 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 127) (xy 134.62 127)
+			(xy 68.58 107.95) (xy 77.47 107.95)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "58ce804d-79e3-4168-ba6f-1d8b126514aa")
+		(uuid "2b1b0224-d0eb-426b-b917-03c1a38abd8d")
+	)
+	(wire
+		(pts
+			(xy 170.18 67.31) (xy 157.48 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4808c46e-2f04-4f27-ae00-ba97de47e24c")
 	)
 	(wire
 		(pts
@@ -2031,6 +2163,16 @@
 			(type default)
 		)
 		(uuid "6465503c-4ae4-4626-896f-af9e6d35c887")
+	)
+	(wire
+		(pts
+			(xy 135.89 123.19) (xy 132.08 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "649abcbf-cc6d-4af3-b450-57e7677a91f8")
 	)
 	(wire
 		(pts
@@ -2054,6 +2196,26 @@
 	)
 	(wire
 		(pts
+			(xy 134.62 127) (xy 132.08 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "80e74fad-18ef-4e85-ae73-6e56ea349e6a")
+	)
+	(wire
+		(pts
+			(xy 151.13 118.11) (xy 151.13 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "af836df5-8127-4d40-b9b2-1a975a547c4d")
+	)
+	(wire
+		(pts
 			(xy 132.08 119.38) (xy 137.16 119.38)
 		)
 		(stroke
@@ -2061,6 +2223,26 @@
 			(type default)
 		)
 		(uuid "b27fdc7b-1f5d-42db-a687-89ae15f5fa7b")
+	)
+	(wire
+		(pts
+			(xy 68.58 110.49) (xy 77.47 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b6708672-cea3-4f09-af2b-524772a5af27")
+	)
+	(wire
+		(pts
+			(xy 153.67 119.38) (xy 153.67 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc083f3a-d52a-42b1-bd64-d873e796b0a8")
 	)
 	(wire
 		(pts
@@ -2074,6 +2256,26 @@
 	)
 	(wire
 		(pts
+			(xy 170.18 77.47) (xy 157.48 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bfd89776-3eb6-4e39-995e-a4b4acd9e43e")
+	)
+	(wire
+		(pts
+			(xy 74.93 67.31) (xy 77.47 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c112cd22-457a-4a13-b01d-c82ab90143a4")
+	)
+	(wire
+		(pts
 			(xy 160.02 133.35) (xy 157.48 133.35)
 		)
 		(stroke
@@ -2084,7 +2286,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 119.38) (xy 144.78 119.38)
+			(xy 137.16 119.38) (xy 151.13 119.38)
 		)
 		(stroke
 			(width 0)
@@ -2094,13 +2296,13 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 119.38) (xy 171.45 119.38)
+			(xy 68.58 113.03) (xy 77.47 113.03)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e18b8a62-a835-4060-91ae-cef621e03ee6")
+		(uuid "db075646-4f38-4c79-add5-6237184aac5e")
 	)
 	(wire
 		(pts
@@ -2111,6 +2313,36 @@
 			(type default)
 		)
 		(uuid "e59beda7-da6f-492e-9a59-6c01c06f21c5")
+	)
+	(wire
+		(pts
+			(xy 135.89 133.35) (xy 137.16 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e7dfec7b-ff32-44ec-9cbc-f0d5dd9a8cb5")
+	)
+	(wire
+		(pts
+			(xy 170.18 69.85) (xy 157.48 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ebb8d9b3-2b6e-4f7d-ab5e-f3424f4f3f13")
+	)
+	(wire
+		(pts
+			(xy 153.67 119.38) (xy 171.45 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec0dbbc1-315e-4b07-ad26-2a3cfea8b297")
 	)
 	(label "VDRV"
 		(at 137.16 116.84 0)
@@ -2133,7 +2365,7 @@
 		(uuid "220eb9bf-88e4-4406-b2d4-9980e8debc78")
 	)
 	(label "PWM_MIZQ2"
-		(at 77.47 107.95 180)
+		(at 68.58 107.95 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2152,16 +2384,6 @@
 		)
 		(uuid "27ab208c-fc42-452f-b171-76c0143beb0a")
 	)
-	(label "VIN"
-		(at 72.39 67.31 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "296ce6ac-80ba-4ad6-9250-163ef5c7a146")
-	)
 	(label "MDER2"
 		(at 132.08 77.47 180)
 		(effects
@@ -2173,7 +2395,7 @@
 		(uuid "29d6f1b7-ce80-48fc-8534-21bb7548a628")
 	)
 	(label "PWM_MIZQ2"
-		(at 157.48 77.47 0)
+		(at 170.18 77.47 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2183,7 +2405,7 @@
 		(uuid "2e22df37-7306-42d3-8304-c7703b923ecc")
 	)
 	(label "PWM_MDER1"
-		(at 77.47 110.49 180)
+		(at 68.58 110.49 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2193,7 +2415,7 @@
 		(uuid "393eb5bb-b37f-4352-b03c-2bc956e1cfa1")
 	)
 	(label "PWM_MDER2"
-		(at 77.47 113.03 180)
+		(at 68.58 113.03 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2212,8 +2434,18 @@
 		)
 		(uuid "4de00b25-8791-4af1-acc5-f6a244967187")
 	)
+	(label "Vin"
+		(at 74.93 67.31 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "514d6383-3a2f-4552-9bf7-f26052020076")
+	)
 	(label "PWM_MDER2"
-		(at 157.48 67.31 0)
+		(at 170.18 67.31 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2222,8 +2454,28 @@
 		)
 		(uuid "5235db82-4a15-4bb9-808b-93bbf1cd4b68")
 	)
+	(label "Vin"
+		(at 135.89 133.35 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "55547e07-0f1f-4cd9-b3c2-9213a6b561c9")
+	)
+	(label "Vin"
+		(at 134.62 127 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5777d5be-a622-4f54-8fb9-051f17efc1bf")
+	)
 	(label "PWM_MDER1"
-		(at 157.48 69.85 0)
+		(at 170.18 69.85 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2262,18 +2514,8 @@
 		)
 		(uuid "8c3bab41-1456-4a2d-add7-e3057135236c")
 	)
-	(label "VIN"
-		(at 134.62 127 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "8f91676f-91d8-4052-bbc5-f9104e22380c")
-	)
 	(label "PWM_MIZQ1"
-		(at 157.48 80.01 0)
+		(at 170.18 80.01 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2283,7 +2525,7 @@
 		(uuid "9019cda7-4260-4f6d-9772-ae062a2c6940")
 	)
 	(label "PWM_MIZQ1"
-		(at 77.47 95.25 180)
+		(at 69.85 95.25 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2311,16 +2553,6 @@
 			(justify right bottom)
 		)
 		(uuid "cd9d533d-4e37-4062-9a70-edd8d9678b93")
-	)
-	(label "VIN"
-		(at 137.16 133.35 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "eaeadf7f-0588-4379-ad47-a9f17c4f73ad")
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -2391,7 +2623,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 132.08 123.19 90)
+		(at 135.89 123.19 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2400,7 +2632,7 @@
 		(fields_autoplaced yes)
 		(uuid "5cd5950a-a926-42f0-bae2-70bd4e2e95fe")
 		(property "Reference" "#PWR01"
-			(at 138.43 123.19 0)
+			(at 142.24 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2409,7 +2641,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 135.89 123.1899 90)
+			(at 139.7 123.1899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2418,7 +2650,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 132.08 123.19 0)
+			(at 135.89 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2427,7 +2659,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 132.08 123.19 0)
+			(at 135.89 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2436,7 +2668,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 132.08 123.19 0)
+			(at 135.89 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2598,6 +2830,73 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+		(at 148.59 118.11 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7d399d21-0807-447d-b223-fd78ca248b1b")
+		(property "Reference" "#PWR06"
+			(at 142.24 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 144.78 118.1099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 148.59 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 148.59 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 148.59 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "00ce7d08-b2d0-4a11-88d1-03809452ece0")
+		)
+		(instances
+			(project ""
+				(path "/d125855b-53a1-4134-bfc6-5092411b493a"
+					(reference "#PWR06")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
 		(at 160.02 133.35 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2658,74 +2957,6 @@
 			(project ""
 				(path "/d125855b-53a1-4134-bfc6-5092411b493a"
 					(reference "#PWR05")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_DIP_x01")
-		(at 152.4 119.38 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "899dd099-aabf-4368-b9d9-0066c2c9ee77")
-		(property "Reference" "SW1"
-			(at 152.4 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_DIP_x01"
-			(at 152.4 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 152.4 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 152.4 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "1x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol"
-			(at 152.4 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "6f96e356-ecfe-4bce-beef-7c7a048e106c")
-		)
-		(pin "1"
-			(uuid "6471f0d6-db90-43ff-836d-019c4f2b7913")
-		)
-		(instances
-			(project ""
-				(path "/d125855b-53a1-4134-bfc6-5092411b493a"
-					(reference "SW1")
 					(unit 1)
 				)
 			)
@@ -3165,7 +3396,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 140.97 133.35 0)
 			(effects
 				(font
@@ -3242,7 +3473,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Regulador:RGUL1"
 			(at 124.46 123.19 0)
 			(effects
 				(font
@@ -3297,7 +3528,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e0b3f67a-5849-4d9b-b801-293eaa379bb6")
-		(property "Reference" "Moto1"
+		(property "Reference" "Motor1"
 			(at 140.97 88.8999 0)
 			(effects
 				(font
@@ -3351,7 +3582,7 @@
 		(instances
 			(project ""
 				(path "/d125855b-53a1-4134-bfc6-5092411b493a"
-					(reference "Moto1")
+					(reference "Motor1")
 					(unit 1)
 				)
 			)
@@ -3516,6 +3747,180 @@
 			(project ""
 				(path "/d125855b-53a1-4134-bfc6-5092411b493a"
 					(reference "DRV1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "OS102011MS2QN1:OS102011MS2QN1")
+		(at 151.13 113.03 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f7d59763-7eb2-42ba-9b46-8defb53ed957")
+		(property "Reference" "S1"
+			(at 156.21 111.8869 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "OS102011MS2QN1"
+			(at 156.21 114.4269 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "OS102011MS2QN1:SW_OS102011MS2QN1"
+			(at 151.13 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 151.13 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 151.13 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "C&K"
+			(at 151.13 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "Switch,Slide,Mini,SPDT,ON-ON,Non-Shorting(BBM),100mA,12VDC,ThruHole,PC Pin | C&K OS102011MS2QN1"
+			(at 151.13 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 151.13 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 151.13 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/OS102011MS2QN1/C%2526K/view-part/?ref=eda"
+			(at 151.13 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "MANUFACTURER RECOMMENDATIONS"
+			(at 151.13 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/OS102011MS2QN1/C%2526K/view-part/?ref=snap"
+			(at 151.13 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "OS102011MS2QN1"
+			(at 151.13 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 151.13 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "C&K"
+			(at 151.13 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "f2eebba2-ca4b-46f2-a317-0163a4081e21")
+		)
+		(pin "1"
+			(uuid "64512b1c-4579-450b-b9be-d80b11ca025c")
+		)
+		(pin "2"
+			(uuid "970bcd6b-69b0-4d62-b3f5-87d47b945934")
+		)
+		(instances
+			(project ""
+				(path "/d125855b-53a1-4134-bfc6-5092411b493a"
+					(reference "S1")
 					(unit 1)
 				)
 			)
