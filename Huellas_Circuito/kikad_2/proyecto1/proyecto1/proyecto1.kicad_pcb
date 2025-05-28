@@ -3679,7 +3679,7 @@
 	)
 	(gr_rect
 		(start 110 32)
-		(end 149 111)
+		(end 150 111)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -4023,6 +4023,38 @@
 		(layer "B.Cu")
 		(net 25)
 		(uuid "0174ff1f-1461-4e7d-9733-62b2b8c0a8d5")
+	)
+	(segment
+		(start 145.5 106.96)
+		(end 147.101 105.359)
+		(width 1)
+		(layer "B.Cu")
+		(net 25)
+		(uuid "1048883c-36f8-47d2-9393-137ba1c2d254")
+	)
+	(segment
+		(start 147.101 105.359)
+		(end 147.101 66.008374)
+		(width 1)
+		(layer "B.Cu")
+		(net 25)
+		(uuid "3aab6461-074b-416e-9109-23b3ff81c89d")
+	)
+	(segment
+		(start 147.101 66.008374)
+		(end 134.092626 53)
+		(width 1)
+		(layer "B.Cu")
+		(net 25)
+		(uuid "e54e3b77-ca73-4df9-8345-a5767acffb0d")
+	)
+	(segment
+		(start 134.092626 53)
+		(end 122.33 53)
+		(width 1)
+		(layer "B.Cu")
+		(net 25)
+		(uuid "eb4a26f3-183d-4912-ad0a-b26a090d18f3")
 	)
 	(segment
 		(start 122.33 53)
